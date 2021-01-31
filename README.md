@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi I'm  Umesh 👋
 
-<!--
-**umeshmore35/umeshmore35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="margin:auto; border:2px soli red" >
+<a href="https://www.instagram.com/" target="_blank" style="display:inline">
+<img  src="https://cdn.icon-icons.com/icons2/800/PNG/512/_instagram_icon-icons.com_65795.png" title="logo" width="10%" height="10%" />
+</a>
+<a href="www.linkedin.com/in/umesh-more-905957188" target="_blank" style="display:inline">
+<img  src="https://cdn.icon-icons.com/icons2/2592/PNG/512/linkin_logo_icon_154491.png" title="logo" width="10%" height="10%" />
+</a>
+<a href="www.linkedin.com/in/umesh-more-905957188" target="_blank" style="display:inline">
+<img  src="https://cdn.icon-icons.com/icons2/555/PNG/512/twitter_icon-icons.com_53611.png" title="logo" width="10%" height="10%" />
+</a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning Node.js And React Frameworks
+- 💬 Ask me about JavaScript React  Next.Js MongoDb graphQl 
+
+# Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/{umeshmore35}/count.svg)
+

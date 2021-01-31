@@ -25,6 +25,12 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshmore45&show_icons=true&theme=flag-india)
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshmore45)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
  <a href="" target="_blank" style="display:inline">
 <img  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" title="logo" width="8%" height="8%" style="display:inline" />
 </a>

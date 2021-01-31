@@ -2,7 +2,7 @@
 
 
 
-<div style="margin:auto; border:2px soli red" >
+<div style="display:block;text-align:center" >
 <a href="https://www.instagram.com/" target="_blank" style="display:inline">
 <img  src="https://cdn.icon-icons.com/icons2/800/PNG/512/_instagram_icon-icons.com_65795.png" title="logo" width="10%" height="10%" />
 </a>
@@ -59,8 +59,8 @@
 <img  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="logo" width="8%" height="8%" style="display:inline" />
 </a>
 
-</br>
-
+<br/>
+<br/>
 
 
 #Visitor Count

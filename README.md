@@ -49,10 +49,18 @@
  <a href="" target="_blank" style="display:inline">
 <img  src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" title="logo" width="8%" height="8%" style="display:inline" />
 </a>
- <a href="" target="_blank" style="display:inline">
+<a href="" target="_blank" style="display:inline">
 <img  src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Code_icon-icons.com_56584.png" title="logo" width="8%" height="8%" style="display:inline" />
 </a>
+<a href="" target="_blank" style="display:inline">
+<img  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="logo" width="8%" height="8%" style="display:inline" />
+</a>
+<a href="" target="_blank" style="display:inline">
+<img  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="logo" width="8%" height="8%" style="display:inline" />
+</a>
+
 </br>
+
 
 
 #Visitor Count
